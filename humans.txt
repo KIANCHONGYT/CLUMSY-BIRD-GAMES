@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer: ALEXANDER YT
+Site: https://ellisonleao.github.io, https://github.com/ellisonleao
+Twitter: @KIANCHONGYT
+Location: MALAYSIA,PENANG
+
+/* SITE */
+
+Last Update: 2021/02/04
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: VIM, Photoshop
